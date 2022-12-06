@@ -90,5 +90,4 @@ python3 scripts/generate_talk2face.py --load_model_path talk2face.bin \
   pages={4594--4604},
   year={2022}
 }
-
 ```
